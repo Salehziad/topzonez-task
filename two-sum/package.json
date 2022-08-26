@@ -1,0 +1,17 @@
+{
+  "name": "two-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twoSum.js",
+  "scripts": {
+    "start":"node twoSum.js",
+    "test": "jest --verbose --coverage"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.1",
+    "supertest": "^6.2.4"
+  }
+}
