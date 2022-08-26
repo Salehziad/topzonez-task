@@ -1,5 +1,5 @@
 # Whiteboard
-![](./assest/Two-Sum.PNG)
+<!-- ![](./assest/Two-Sum.PNG) -->
 
 
 # Test 
