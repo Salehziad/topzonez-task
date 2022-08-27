@@ -1,0 +1,17 @@
+{
+    "name": "reverse-integer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "reverse-integer.js",
+    "scripts": {
+        "start": "node reverse-integer.js",
+        "test": "jest --verbose --coverage"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^29.0.1",
+        "supertest": "^6.2.4"
+    }
+}
