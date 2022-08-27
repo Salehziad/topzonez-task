@@ -5,7 +5,6 @@ const twoSum = (nums, target) => {
     for (let i = 0; i < nums.length; i++) {
         const value = target - nums[i];
         if (map.has(value)) {
-            console.log(map.get(value));
             return [
                 map.get(value),
                 i
