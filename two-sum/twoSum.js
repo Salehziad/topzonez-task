@@ -14,7 +14,7 @@ const twoSum = (nums, target) => {
     };
 };
 
-console.log(twoSum([
+console.log(twoSum('sums',[
     3, 2, 4
 ], 6));
 
